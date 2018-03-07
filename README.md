@@ -1,3 +1,7 @@
+## THIS REPOSITORY HAS BEEN MOVED
+
+Please use [draios/sysdig-workshop-infra](https://github.com/draios/sysdig-workshop-infra)
+
 # Sysdig Workstation
 
 Cookbooks and Packer config to create a workstation for use during Sysdig workshops. Thanks to the Chef team for letting us copy [their code](https://github.com/chef-cft/habitat_workstation).
